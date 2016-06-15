@@ -1,2 +1,3 @@
-# Witaj_swiecie
-Jestem opisem. Zostalem stworzony pietnastego czerwca dwutysiecznego szesnastego roku.
+#Zegnaj swiecie.
+
+Tak naprawdę to tamto zdanie mi się nie podobało.
